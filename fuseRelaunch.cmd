@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/MyStuff/College/Universidad Tecnologica de Panama/Year IV/Microprocesadores/Laboratorios/Clock5MHZ/Contador0_9_test_isim_beh.exe" -prj "C:/MyStuff/College/Universidad Tecnologica de Panama/Year IV/Microprocesadores/Laboratorios/Clock5MHZ/Contador0_9_test_beh.prj" "work.Contador0_9_test" 
